@@ -1,0 +1,5 @@
+{"id":"asst_ZqxqnkK4FFToEc2cZAt0ZAgN","object":"assistant","created_at":1723105624,"name":"NOVA_GORICA",
+"description":null,"model":"gpt-4o-mini","instructions":
+"",
+"tools":[{"type":"file_search"}],"top_p":1,"temperature":1,"tool_resources":{"file_search":{"vector_store_ids":["vs_rmGfhvQZbG5699IM7D6xa9mT"]}},
+"metadata":{},"response_format":"auto"}
